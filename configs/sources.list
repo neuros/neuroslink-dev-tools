@@ -1,7 +1,7 @@
 # See http://wiki.neurostechnology.com for information about this distribution.
 
 # Main Neuros Link Software Library
-deb http://us.neuros.tv/neuroslink intrepid main
+deb http://us.archive.neuros.tv/neuroslink intrepid main
 #deb-src http://us.neuros.tv/neuroslink intrepid main
 
 
@@ -16,8 +16,6 @@ deb http://us.archive.neuros.tv/ubuntu/ intrepid main restricted
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid main restricted
 deb http://us.archive.neuros.tv/ubuntu/ intrepid-updates main restricted
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid-updates main restricted
-deb http://us.archive.neuros.tv/ubuntu/ intrepid main restricted
-#deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid main restricted
 deb http://us.archive.neuros.tv/ubuntu/ intrepid-backports main restricted
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid-backports main restricted
 deb http://us.archive.neuros.tv/ubuntu intrepid-security main restricted
