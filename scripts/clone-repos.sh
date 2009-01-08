@@ -16,3 +16,5 @@ git clone git@$1:repo/neuroslink-wallpapers
 git clone git@$1:repo/mythtv-0.21.0+fixes18722
 git clone git@$1:repo/mythtv-theme-neuroslink
 git clone git@$1:repo/firefox-default-profile
+git clone git@$1:repo/ubuntu-keyring-2008.0304
+
