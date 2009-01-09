@@ -25,9 +25,9 @@ deb http://us.archive.neuros.tv/ubuntu intrepid-security main restricted
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## and Neuros team. Also, please note that software in universe WILL NOT receive any
 ## review or updates from the Ubuntu security team.
-deb http://naves/ubuntu/ intrepid universe
+deb http://us.archive.ubuntu.com/ubuntu/ intrepid universe
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid universe
-deb http://naves/ubuntu/ intrepid-updates universe
+deb http://us.archive.ubuntu.com/ubuntu intrepid-updates universe
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid-updates universe
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu 
@@ -35,9 +35,9 @@ deb http://naves/ubuntu/ intrepid-updates universe
 ## your rights to use the software. Also, please note that software in 
 ## multiverse WILL NOT receive any review or updates from the Ubuntu
 ## security team.
-deb http://naves/ubuntu/ intrepid multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ intrepid multiverse
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid multiverse
-deb http://naves/ubuntu/ intrepid-updates multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ intrepid-updates multiverse
 #deb-src http://us.archive.ubuntu.com/ubuntu/ intrepid-updates multiverse
 
 ## Uncomment the following two lines to add software from the 'backports'
@@ -57,7 +57,7 @@ deb http://us.archive.ubuntu.com/ubuntu/ intrepid-backports universe multiverse
 deb http://archive.canonical.com/ubuntu intrepid partner
 #deb-src http://archive.canonical.com/ubuntu intrepid partner
 
-deb http://naves/ubuntu intrepid-security universe
+deb http://us.archive.ubuntu.com/ubuntu intrepid-security universe
 #deb-src http://security.ubuntu.com/ubuntu intrepid-security universe
-deb http://naves/ubuntu intrepid-security multiverse
+deb http://us.archive.ubuntu.com/ubuntu intrepid-security multiverse
 #deb-src http://security.ubuntu.com/ubuntu intrepid-security multiverse
