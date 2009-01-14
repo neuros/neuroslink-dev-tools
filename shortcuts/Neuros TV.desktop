@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Neuros.TV
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Neuros.TV
+Exec=firefox %u
+Comment[en_US]=Open to Neuros TV Application
+Comment=Open to Neuros TV Application
+Icon=/usr/share/pixmaps/firefox-3.0.png

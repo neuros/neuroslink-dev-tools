@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Increase Font Size
+Type=Application
+Terminal=false
+Icon[en_US]=/usr/share/icons/gnome/scalable/mimetypes/gnome-mime-x-font-afm.svg
+Name[en_US]=Increase Font Size
+Exec=neuros-increase-dpi
+Comment[en_US]=Increase Gnome Font DPI to increase font sizes
+Comment=Increase Gnome Font DPI to increase font sizes
+Icon=/usr/share/icons/gnome/scalable/mimetypes/gnome-mime-x-font-afm.svg

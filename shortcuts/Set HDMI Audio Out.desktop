@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Set HDMI Audio Out
+Exec=set-hdmi-audio.sh
+Comment[en_US]=Configure the system for HDMI Audio Output
+Name=Set HDMI Audio Out
+Comment=Configure the system for HDMI Audio Output
+Icon=gnome-panel-launcher
